@@ -1,0 +1,23 @@
+KPI - use Jira or something similar to masure
+ - Work Velocity based on ETA
+ - Release Burndown
+ - True Test Coverage using e.g. Google Gtest
+
+Release 1: possibilities we should have
+   - register users/clients with their emails,
+   - login/logout and authenticate users
+   - simply search items/products
+   - continues integration mechanism based on unit tests
+
+Release 2:
+   - do advanced search
+   - end-to-end tests
+   - collect items in the cart and pay for them
+
+Release 3:
+   - register users based on SSO
+   - purchase items by paying with different ways and get delivery request
+   
+Release 4:
+   - suggest new items to the client based on his activity
+   - improved client session management
